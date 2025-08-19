@@ -3,4 +3,4 @@
 
 * Have fun
 * Take over the world
-A repository for my ideas on AI
+
